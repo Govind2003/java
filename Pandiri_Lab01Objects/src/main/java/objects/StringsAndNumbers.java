@@ -110,7 +110,7 @@ public class StringsAndNumbers {
          System.out.println("Sixth random integer value is:" + randomWithSeed.nextInt());
          System.out.println("Seventh random integer value is:" + randomWithSeed.nextInt());
          System.out.println("Got same results");
-         System.out.println("Values never change when there is a seed in Random class");
+         System.out.println("There is no change in result when initiates a seed in Random class");
         }
     }
 
